@@ -25,7 +25,7 @@
     "query-string": "^7.0.1"
   },
   "peerDependencies": {
-    "react": "16.x",
+    "react": "17.x",
     "expo": "44.x",
     "react-native": "0.64.x",
     "react-native-webview": "11.x"
